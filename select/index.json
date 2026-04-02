@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "空と虚",
+  "base_artist": "Sasanomaly",
+  "createdAt": "2026-04-02T05:18:15.100173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空と虚 (Robotaki Remix) - Sakura Chill Beats Singles",
+      "artist": "sasanomaly feat. Robotaki",
+      "has_synced": false,
+      "path": "select/01_空と虚_(Robotaki_Remix)_-_Sakura_Chill_Beats_Singles_sasanomaly_feat._Robotaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空と虚",
+      "artist": "sasanomaly",
+      "has_synced": true,
+      "path": "select/02_空と虚_sasanomaly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空と虚",
+      "artist": "sasanomaly",
+      "has_synced": true,
+      "path": "select/03_空と虚_sasanomaly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空と虚",
+      "artist": "ササノマリイ",
+      "has_synced": true,
+      "path": "select/04_空と虚_ササノマリイ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空と虚 (Robotaki Remix) - SACRA BEATS Singles",
+      "artist": "sasanomaly",
+      "has_synced": true,
+      "path": "select/05_空と虚_(Robotaki_Remix)_-_SACRA_BEATS_Singles_sasanomaly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "空と虚",
+      "artist": "ササノマリイ",
+      "has_synced": true,
+      "path": "select/06_空と虚_ササノマリイ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "空と虚 - sora to utsuro",
+      "artist": "Sasanomaly",
+      "has_synced": true,
+      "path": "select/07_空と虚_-_sora_to_utsuro_Sasanomaly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空と虚",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/pl_01_空と虚_ササノマリイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "sora to utsuro",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/pl_02_sora_to_utsuro_ササノマリイ.txt"
+    }
+  ]
+}
